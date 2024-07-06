@@ -12,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Ground
+  - Asset
   - 
   - 
   - 
@@ -41,4 +41,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Asset
+    uniqueID: 4207410349
+    locked: 0
+  - name: Karakter
+    uniqueID: 1123844269
     locked: 0
